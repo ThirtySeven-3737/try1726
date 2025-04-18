@@ -1,0 +1,16 @@
+2024-12-18 11:53:13:INFO:The model has 4.138M trainable parameters
+2024-12-18 11:53:26:INFO:The model has 4.138M trainable parameters
+2024-12-18 11:53:35:INFO:The model has 4.138M trainable parameters
+2024-12-19 10:54:47:INFO:The model has 4.138M trainable parameters
+2024-12-19 10:54:57:INFO:The model has 4.138M trainable parameters
+2024-12-19 10:55:04:INFO:The model has 4.138M trainable parameters
+2025-01-02 00:04:00:INFO:Start running mobilenetv3_large...
+2025-01-02 00:04:00:INFO:Namespace(modelName='mobilenetv3_large', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-01-02 00:04:02:INFO:The model has 4.138M trainable parameters
+2025-01-02 00:04:25:INFO:The model has 4.138M trainable parameters
+2025-01-02 00:04:35:INFO:The model has 4.138M trainable parameters
+2025-01-02 00:04:49:INFO:Start running mobilenetv3_large...
+2025-01-02 00:04:49:INFO:Namespace(modelName='mobilenetv3_large', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='intra_patient', seed=42, device='cuda:0')
+2025-01-02 00:04:54:INFO:The model has 4.138M trainable parameters
+2025-01-02 00:05:16:INFO:The model has 4.138M trainable parameters
+2025-01-02 00:05:26:INFO:The model has 4.138M trainable parameters

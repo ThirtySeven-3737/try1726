@@ -1,0 +1,164 @@
+2024-12-09 17:05:20:INFO:The model has 3846917 trainable parameters
+2024-12-09 17:08:40:INFO:The model has 3.847 trainable parameters
+2024-12-09 17:11:26:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:12:01:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:13:57:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:16:34:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:17:13:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:20:15:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:21:58:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:22:28:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:27:18:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:29:32:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:32:08:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:34:28:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:35:06:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:37:09:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:39:52:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:41:29:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:45:10:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:47:24:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:48:39:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:52:36:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:56:27:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:58:20:INFO:The model has 3.847M trainable parameters
+2024-12-09 17:58:34:INFO:The model has 3.847M trainable parameters
+2024-12-09 18:05:00:INFO:The model has 3.847M trainable parameters
+2024-12-09 18:05:25:INFO:The model has 3.847M trainable parameters
+2024-12-09 18:11:02:INFO:The model has 3.847M trainable parameters
+2024-12-09 18:13:42:INFO:The model has 3.847M trainable parameters
+2024-12-09 18:14:19:INFO:The model has 3.847M trainable parameters
+2024-12-09 18:14:53:INFO:The model has 3.847M trainable parameters
+2024-12-09 18:15:03:INFO:The model has 3.847M trainable parameters
+2024-12-09 23:08:18:INFO:The model has 3.847M trainable parameters
+2024-12-09 23:09:24:INFO:The model has 3.847M trainable parameters
+2024-12-09 23:09:30:INFO:The model has 3.847M trainable parameters
+2024-12-09 23:09:34:INFO:The model has 3.847M trainable parameters
+2024-12-12 11:36:38:INFO:The model has 3.847M trainable parameters
+2024-12-12 11:36:48:INFO:The model has 3.847M trainable parameters
+2024-12-12 11:36:55:INFO:The model has 3.847M trainable parameters
+2024-12-16 10:44:11:INFO:The model has 3.847M trainable parameters
+2024-12-16 10:44:23:INFO:The model has 3.847M trainable parameters
+2024-12-19 10:42:41:INFO:The model has 3.847M trainable parameters
+2024-12-19 10:42:57:INFO:The model has 3.847M trainable parameters
+2024-12-19 10:43:04:INFO:The model has 3.847M trainable parameters
+2024-12-19 10:46:22:INFO:The model has 3.847M trainable parameters
+2024-12-19 10:50:01:INFO:The model has 3.847M trainable parameters
+2024-12-19 10:50:21:INFO:The model has 3.847M trainable parameters
+2024-12-19 10:50:27:INFO:The model has 3.847M trainable parameters
+2024-12-19 10:50:31:INFO:The model has 3.847M trainable parameters
+2024-12-19 10:52:00:INFO:The model has 3.847M trainable parameters
+2024-12-19 10:52:06:INFO:The model has 3.847M trainable parameters
+2024-12-19 10:52:10:INFO:The model has 3.847M trainable parameters
+2025-01-01 23:56:09:INFO:The model has 3.847M trainable parameters
+2025-01-01 23:56:31:INFO:The model has 3.847M trainable parameters
+2025-01-01 23:56:40:INFO:The model has 3.847M trainable parameters
+2025-01-01 23:56:55:INFO:The model has 3.847M trainable parameters
+2025-01-01 23:57:15:INFO:The model has 3.847M trainable parameters
+2025-01-01 23:57:23:INFO:The model has 3.847M trainable parameters
+2025-04-07 19:31:01:INFO:Start running resnet18...
+2025-04-07 19:31:01:INFO:Namespace(data_path='/home/young/DL/ECG_sentiment_benchmark/data/', datasetName='dreamer', device='cuda:0', loading_type='inter_patient', modelName='resnet18', model_save_dir='results/checkpoint', num_workers=0, res_save_dir='results/results/', seed=42)
+2025-04-07 19:31:06:INFO:The model has 3.847M trainable parameters
+2025-04-07 19:32:18:INFO:Start running resnet18...
+2025-04-07 19:32:18:INFO:Namespace(data_path='/home/young/DL/ECG_sentiment_benchmark/data/', datasetName='dreamer', device='cuda:0', loading_type='inter_patient', modelName='resnet18', model_save_dir='results/checkpoint', num_workers=0, res_save_dir='results/results/', seed=42)
+2025-04-07 19:32:23:INFO:The model has 3.847M trainable parameters
+2025-04-07 19:32:56:INFO:Start running resnet18...
+2025-04-07 19:32:56:INFO:Namespace(data_path='/home/young/DL/ECG_sentiment_benchmark/data/', datasetName='dreamer', device='cuda:0', loading_type='inter_patient', modelName='resnet18', model_save_dir='results/checkpoint', num_workers=0, res_save_dir='results/results/', seed=42)
+2025-04-07 19:33:01:INFO:The model has 3.847M trainable parameters
+2025-04-07 19:33:55:INFO:Start running resnet18...
+2025-04-07 19:33:55:INFO:Namespace(data_path='/home/young/DL/ECG_sentiment_benchmark/data/', datasetName='dreamer', device='cuda:0', loading_type='inter_patient', modelName='resnet18', model_save_dir='results/checkpoint', num_workers=0, res_save_dir='results/results/', seed=42)
+2025-04-07 19:34:01:INFO:The model has 3.847M trainable parameters
+2025-04-07 19:34:21:INFO:Start running resnet18...
+2025-04-07 19:34:21:INFO:Namespace(data_path='/home/young/DL/ECG_sentiment_benchmark/data/', datasetName='dreamer', device='cuda:0', loading_type='inter_patient', modelName='resnet18', model_save_dir='results/checkpoint', num_workers=0, res_save_dir='results/results/', seed=42)
+2025-04-07 19:34:26:INFO:The model has 3.847M trainable parameters
+2025-04-07 19:37:54:INFO:Start running resnet18...
+2025-04-07 19:37:54:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 19:37:59:INFO:The model has 3.847M trainable parameters
+2025-04-07 19:41:34:INFO:Start running resnet18...
+2025-04-07 19:41:34:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 19:41:39:INFO:The model has 3.847M trainable parameters
+2025-04-07 19:42:23:INFO:Start running resnet18...
+2025-04-07 19:42:23:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 19:42:29:INFO:The model has 3.846M trainable parameters
+2025-04-07 19:44:14:INFO:Start running resnet18...
+2025-04-07 19:44:14:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 19:44:19:INFO:The model has 3.846M trainable parameters
+2025-04-07 19:47:40:INFO:Start running resnet18...
+2025-04-07 19:47:40:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 19:47:45:INFO:The model has 3.846M trainable parameters
+2025-04-07 19:49:18:INFO:Start running resnet18...
+2025-04-07 19:49:18:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 19:50:55:INFO:Start running resnet18...
+2025-04-07 19:50:55:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 19:55:35:INFO:Start running resnet18...
+2025-04-07 19:55:35:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:05:45:INFO:Start running resnet18...
+2025-04-07 20:05:45:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:09:29:INFO:Start running resnet18...
+2025-04-07 20:09:29:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:19:57:INFO:Start running resnet18...
+2025-04-07 20:19:57:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:20:49:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:24:35:INFO:Start running resnet18...
+2025-04-07 20:24:35:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:24:41:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:25:03:INFO:Start running resnet18...
+2025-04-07 20:25:03:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:25:16:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:25:38:INFO:Start running resnet18...
+2025-04-07 20:25:38:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:25:43:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:28:23:INFO:Start running resnet18...
+2025-04-07 20:28:23:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:28:29:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:29:34:INFO:Start running resnet18...
+2025-04-07 20:29:34:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:29:40:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:30:01:INFO:Start running resnet18...
+2025-04-07 20:30:01:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:30:06:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:32:59:INFO:Start running resnet18...
+2025-04-07 20:32:59:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:33:04:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:33:51:INFO:Start running resnet18...
+2025-04-07 20:33:51:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:33:57:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:34:56:INFO:Start running resnet18...
+2025-04-07 20:34:56:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:35:02:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:35:59:INFO:Start running resnet18...
+2025-04-07 20:35:59:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:36:05:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:36:41:INFO:Start running resnet18...
+2025-04-07 20:36:41:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:36:46:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:39:17:INFO:Start running resnet18...
+2025-04-07 20:39:17:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:39:22:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:41:29:INFO:Start running resnet18...
+2025-04-07 20:41:29:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:41:35:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:41:43:INFO:Start running resnet18...
+2025-04-07 20:41:43:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:41:49:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:45:41:INFO:Start running resnet18...
+2025-04-07 20:45:41:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:45:47:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:49:23:INFO:Start running resnet18...
+2025-04-07 20:49:23:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-04-07 20:49:29:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:54:24:INFO:Start running resnet18...
+2025-04-07 20:54:24:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=1111, device='cuda:0')
+2025-04-07 20:54:30:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:55:05:INFO:Start running resnet18...
+2025-04-07 20:55:05:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=2222, device='cuda:0')
+2025-04-07 20:55:11:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:55:54:INFO:Start running resnet18...
+2025-04-07 20:55:54:INFO:Start running resnet18...
+2025-04-07 20:55:54:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=3333, device='cuda:0')
+2025-04-07 20:55:54:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=3333, device='cuda:0')
+2025-04-07 20:56:00:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:56:00:INFO:The model has 3.846M trainable parameters
+2025-04-07 20:56:11:INFO:Start running resnet18...
+2025-04-07 20:56:11:INFO:Namespace(modelName='resnet18', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=1111, device='cuda:0')
+2025-04-07 20:56:17:INFO:The model has 3.846M trainable parameters

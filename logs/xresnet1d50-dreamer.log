@@ -1,0 +1,5 @@
+2025-01-13 17:29:08:INFO:Start running xresnet1d50...
+2025-01-13 17:29:08:INFO:Namespace(modelName='xresnet1d50', datasetName='dreamer', num_workers=0, model_save_dir='results/checkpoint', res_save_dir='results/results/', data_path='/home/young/DL/ECG_sentiment_benchmark/data/', loading_type='inter_patient', seed=42, device='cuda:0')
+2025-01-13 17:29:12:INFO:The model has 0.749M trainable parameters
+2025-01-13 17:29:21:INFO:The model has 0.749M trainable parameters
+2025-01-13 17:29:25:INFO:The model has 0.749M trainable parameters
